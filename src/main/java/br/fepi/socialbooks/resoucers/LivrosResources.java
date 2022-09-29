@@ -25,11 +25,16 @@ public class LivrosResources {
 		Livro livro8 = new Livro("A queda de gondolin");
 		Livro livro9 = new Livro("Dracula");
 		Livro livro10 = new Livro("O Senhor do Anéis");
-
+		Livro livro11 = new Livro("Hoobit");
+		Livro livro12 = new Livro("Ivan o terrivel");
+		Livro livro13 = new Livro("Moby Dicky");
+		Livro livro14 = new Livro("Viagem ao centro da terra");
+		Livro livro15 = new Livro("Star War: uma nova esperança");
 
 
 		
-		Livro[] livros = {livro1, livro2, livro3, livro4,livro5,livro6,livro7,livro8,livro9,livro10};
+		Livro[] livros = {livro1, livro2, livro3, livro4,livro5,livro6,livro7,livro8,
+			livro9,livro10,livro11,livro12,livro13,livro14,livro15};
 		
 		return Arrays.asList(livros);
 				
