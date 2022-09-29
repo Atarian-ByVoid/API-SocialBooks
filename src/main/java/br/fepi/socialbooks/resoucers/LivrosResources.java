@@ -19,8 +19,10 @@ public class LivrosResources {
 		Livro livro2 = new Livro("1984");
 		Livro livro3 = new Livro("O pequeno príncipe");
 		Livro livro4 = new Livro("Dona flor e seus 2 maridos");
+		Livro livro5 = new Livro("Dona flor e seus 2 maridos");
+
 		
-		Livro[] livros = {livro1, livro2, livro3, livro4};
+		Livro[] livros = {livro1, livro2, livro3, livro4,livro5};
 		
 		return Arrays.asList(livros);
 				
