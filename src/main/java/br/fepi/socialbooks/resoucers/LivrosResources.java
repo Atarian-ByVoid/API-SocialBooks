@@ -24,10 +24,12 @@ public class LivrosResources {
 		Livro livro7 = new Livro("zelda Ocarina Of Time");
 		Livro livro8 = new Livro("A queda de gondolin");
 		Livro livro9 = new Livro("Dracula");
+		Livro livro10 = new Livro("O Senhor do Anéis");
+
 
 
 		
-		Livro[] livros = {livro1, livro2, livro3, livro4,livro5,livro6,livro7,livro8,livro9};
+		Livro[] livros = {livro1, livro2, livro3, livro4,livro5,livro6,livro7,livro8,livro9,livro10};
 		
 		return Arrays.asList(livros);
 				
