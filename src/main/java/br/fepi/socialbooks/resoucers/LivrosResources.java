@@ -33,14 +33,13 @@ public class LivrosResources {
 		Livro livro16 = new Livro("Cyberpunk 2020");
 		Livro livro17 = new Livro("Necromancer");
 		Livro livro18 = new Livro("Phantastes");
+		Livro livro19 = new Livro("Interstelar");
+		Livro livro20 = new Livro("Perdido em marte");
 
 
 
-
-
-		
 		Livro[] livros = {livro1, livro2, livro3, livro4,livro5,livro6,livro7,livro8,
-			livro9,livro10,livro11,livro12,livro13,livro14,livro15,livro16,livro17,livro18};
+			livro9,livro10,livro11,livro12,livro13,livro14,livro15,livro16,livro17,livro18,livro19,livro20};
 		
 		return Arrays.asList(livros);
 				
