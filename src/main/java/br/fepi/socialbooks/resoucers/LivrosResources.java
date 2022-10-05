@@ -40,11 +40,16 @@ public class LivrosResources {
 		Livro livro23 = new Livro("Mil e uma noites");
 		Livro livro24 = new Livro("O manifesto comunista");
 		Livro livro25 = new Livro("O capital");
+		Livro livro26 = new Livro("A cor que caiu do céu");
+		Livro livro27 = new Livro("Star Wars o império contra ataca");
+		Livro livro28 = new Livro("Star wars Rogue One"); 
+
+
 
 
 		Livro[] livros = {livro1, livro2, livro3, livro4,livro5,livro6,livro7,livro8,
-			livro9,livro10,livro11,livro12,livro13,livro14,livro15,livro16,livro17,livro18,livro19,livro20,
-			livro21,livro22,livro23,livro24,livro25};
+			livro9,livro10,livro11,livro12,livro13,livro14,livro15,livro16,livro17,livro18,livro19,livro20,livro21,
+			livro22,livro23,livro24,livro25,livro26,livro27,livro28};
 		
 		return Arrays.asList(livros);
 				
