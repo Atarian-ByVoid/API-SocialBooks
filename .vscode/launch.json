@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SocialbooksApplication<socialbooks>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.fepi.socialbooks.SocialbooksApplication",
+            "projectName": "socialbooks",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
