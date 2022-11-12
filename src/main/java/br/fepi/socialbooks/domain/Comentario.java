@@ -3,13 +3,13 @@ package br.fepi.socialbooks.domain;
 import java.sql.Date;
 
 public class Comentario {
-	
+
 	private Long id;
-	
+
 	private String texto;
-	
+
 	private String usuario;
-	
+
 	private Date data;
 
 	public Long getId() {
@@ -42,5 +42,5 @@ public class Comentario {
 
 	public void setData(Date data) {
 		this.data = data;
-	}	
+	}
 }
